@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124346653577",
+    "project_id": "logintest-452ff",
+    "storage_bucket": "logintest-452ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124346653577:android:846a138aac39de0d505f58",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_with_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124346653577-q9iov7vi0vbt19tsokbcnpjotl595qmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEYBQnP3pevg4-qVU0GQ95trxAY5s8WDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124346653577-q9iov7vi0vbt19tsokbcnpjotl595qmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
